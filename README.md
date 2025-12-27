@@ -10,7 +10,8 @@ I propose that reduced external electromagnetic 'static' (as seen in certain del
 * **Process:** Microtubules act as quantum computers where wavefunction collapse occurs, this wavefunction collapse equates to consciousness level (e.g., microtubule pattern disruption has been observed in anethesized states, which represent a state of relative unconsciousness).
 
 ### 2. Chemical Software: The Aromatic "Wedge"
-* **Facilitators:** Phenethylamines and GTF2I gene deletion (Williams-Beuren Syndrome), which I propose is a phenethylamine "mimic" phenotype. Childhood states (especially early childhood) could also facilitate this coherent state.
+* **Facilitators:** Phenethylamines and GTF2I gene deletion (Williams-Beuren Syndrome), which I propose is a phenethylamine "mimic" phenotype. **Childhood states of consciousness** (especially early childhood) could also facilitate this coherent state.
+* **GTF2I as the Resonance Rheostat:** I hypothesize that the GTF2I gene acts as a regulatory rheostat. It determines whether the 7q11.23 manifold collapses into a **Harmonic Resonance** (WS-like) or a **Jagged Interference** (ASD-like) state.
 * **Function:** These compounds, whether endogenous or exogenous, promote $\pi$-bond stacking, increasing the coherence time ($\tau$) of the quantum state.
 * **The WS Phenotype:** Williams Syndrome as a natural state of high-coherence/low-resistance.
 
