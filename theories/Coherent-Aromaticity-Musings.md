@@ -1,6 +1,6 @@
 # ✨ Coherent Aromaticity Musings: 
 ## 
-- I've been fascinated by how many psychedelic compounds have aromatic rings. In chemistry, aromaticity is defined by an atom having 4*pi+2 electrons (Hückel's rule) [1]. Trace amines have an amine group and an aromatic phenol
+- I've been fascinated by how many psychedelic compounds have aromatic rings. In chemistry, aromaticity is defined by an atom having $4\pi + 2$ electrons (Hückel's rule) [1]. Trace amines have an amine group and an aromatic phenol
 - Certain substitutions seem to induce a different conformational coherent vibration. For instance, some phenol rings substituted by methelenedioxy- bridges or bromine/para-methyl groups seem to produce a highly empathogenic vibration (like some parts of Williams syndrome's social phenotype)
 - I propose that indole rings induce a different vibrational mode defined by more intense experiences and sensory overload (the "ASD-like" phenotype).
 - I've also been exploring piezoelectricity and how it relates to endogenous structural scaffolds (e.g., collagen and pineal gland structures). Piezoelectric material (like quartz) generates charge (voltage) from vibrational stimulation.
